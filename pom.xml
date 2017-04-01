@@ -5,10 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>tianti-common</module>
-  	<module>tianti-org</module>
-  	<module>tianti-modules</module>
-  </modules>
+    <module>tianti-common</module>
+    <module>tianti-org</module>
+    <module>tianti-modules</module>
+</modules>
   <!-- 主要依赖库的版本定义 -->
   <properties>
     <!-- 定义资源文件的编码格式 -->
